@@ -4,38 +4,32 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 20th April 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+
 
 ## Conference Paper
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2024](https://www.sigmobile.org/mobisys/2024/))<br>Tokyo, Japan. June, 2024 (under camera-ready modification).
+- Exploiting the Regular Structure of Modern Quantum Architectures for Compiling and Optimizing Programs with Permutable Operators<br>**Yuwei Jin**, Fei Hua, Yanhao Chen, Ari B. Hayes, Chi Zhang, Eddy Z. Zhang<br>ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2023)<br> San Diego, California, USA. May, 2024. 
 
+- Tetris: A compilation Framework for VQE Applications <br>**\*Yuwei Jin**, \*Zirui Li(co-first), Henry Chen, Fei Hua, Yanhao Chen, Eddy Z. Zhang. <br>The International Symposium on Computer Architecture (ISCA 2024) <br> Buenos Aires, Argentina. June 2024 (under camera-ready modification).
+- Quantum Fourier Transformation Circuits Compilation <br> **\*Yuwei Jin**, \*Xiangyu Gao(co-first), Minghao Guo, Henry Chen, Fei Hua, Chi Zhang, Eddy Z. Zhang (in submission).
+- CaQR: A Compiler-Assisted Approach for Qubit Reuse through Dynamic Circuit <br> Fei Hua, **Yuwei Jin**, Yanhao Chen, Suhas Vittal, Kevin Krsulich, Lev S. Bishop, John Lapeyre, Ali Javadi-Abhari, Eddy Z. Zhang <br>
+ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2023)<br> Vancouver, Canada. April 2023.
+- A Pulse Generation Framework with Augmented Program-aware Basis Gates and Criticality Analysis <br>
+Yanhao Chen, **Yuwei Jin**, Fei Hua, Ari Hayes, Ang Li, Yunong Shi, Eddy Z. Zhang <br>
+IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023) <br>
+Montreal, Canada. February, 2023.
+- AutoBraid: A Framework for Enabling Efficient Surface Communication in Quantum Computing <br>
+Fei Hua, Yanhao Chen, **Yuwei Jin**, Chi Zhang, Ari Hayes, Youtao Zhang, Eddy Z. Zhang <br>
+IEEE/ACM International Symposium on Microarchitecture (MICRO 2021) <br>
+Virtual Conference. October, 2021.
+- Time-optimal Qubit Mapping <br>
+Chi Zhang, Ari B Hayes, Longfei Qiu, **Yuwei Jin**, Yanhao Chen, Eddy Z. Zhang <br>
+ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2021) <br>
+Virtual Conference. April, 2021.
+
+- CQC: A Crosstalk-Aware Quantum Program Compilation Framework <br>
+Fei Hua, **Yuwei Jin**, Yanhao Chen, Chi Zhang, Ari Hayes, Hang Gao, Eddy Z. Zhang (in submission).
   <br>
 
-## Working Manuscript
-
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classification Machine Learning Techniques<br>
-
-- Multi-objective Optimization Model Based on Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>
-
-  <br>
-
----
-
-## Early Project
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>AAAI Conference on Artificial Intelligence. Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium-program/))<br>Vancouver, Canada. February, 2024.
-
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>*Junior year course design, early project.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>*Freshman course design, early project.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
-
----
-
-## Undergrad Thesis
-
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project (FYP). Under working<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/en/)<br>
 
   <br>
