@@ -10,7 +10,7 @@ title: Hobbies
 
 <div class="third">
 <img src="/images/boulder.JPG">
-<img src="/images/snow.JPG">
+<img src="/images/snow.png">
 </div>
 <br>
 
