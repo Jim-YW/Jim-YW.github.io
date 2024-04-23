@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://yuweijin.com/yuweijin.JPG" class="floatpic" width="360" height="480">
+<img src="https://jim-yw.github.io/yuweijin.JPG" class="floatpic" width="360" height="480">
 
 Here is **Yuwei Jin (Jim, 金裕伟)**.
 
