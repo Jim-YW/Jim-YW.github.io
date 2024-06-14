@@ -8,11 +8,11 @@ title: Publications
 
 ## Conference Paper
 
-- Exploiting the Regular Structure of Modern Quantum Architectures for Compiling and Optimizing Programs with Permutable Operators.<br>**Yuwei Jin**, Fei Hua, Yanhao Chen, Ari B. Hayes, Chi Zhang, Eddy Z. Zhang<br>ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS 2023**)<br> San Diego, California, USA. May, 2024. 
+- Quantum Fourier Transformation Circuits Compilation. <br> **\*Yuwei Jin**, \*Xiangyu Gao(co-first), Minghao Guo, Henry Chen, Fei Hua, Chi Zhang, Eddy Z. Zhang. <be> C: The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC 2024**) <br> ATLANTA, GA. NOV, 2024.
 
 - Tetris: A compilation Framework for VQE Applications. <br>**\*Yuwei Jin**, \*Zirui Li(co-first), Henry Chen, Fei Hua, Yanhao Chen, Eddy Z. Zhang. <br>The International Symposium on Computer Architecture (**ISCA 2024**) <br> Buenos Aires, Argentina. June 2024 (under camera-ready modification).
 
-- Quantum Fourier Transformation Circuits Compilation. <br> **\*Yuwei Jin**, \*Xiangyu Gao(co-first), Minghao Guo, Henry Chen, Fei Hua, Chi Zhang, Eddy Z. Zhang (in submission).
+- Exploiting the Regular Structure of Modern Quantum Architectures for Compiling and Optimizing Programs with Permutable Operators.<br>**Yuwei Jin**, Fei Hua, Yanhao Chen, Ari B. Hayes, Chi Zhang, Eddy Z. Zhang<br>ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS 2023**)<br> San Diego, California, USA. May, 2024. 
 
 - CaQR: A Compiler-Assisted Approach for Qubit Reuse through Dynamic Circuit. <br> Fei Hua, **Yuwei Jin**, Yanhao Chen, Suhas Vittal, Kevin Krsulich, Lev S. Bishop, John Lapeyre, Ali Javadi-Abhari, Eddy Z. Zhang <br>
 ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS 2023**)<br> Vancouver, Canada. April 2023.
