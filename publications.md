@@ -8,7 +8,7 @@ title: Publications
 
 ## Conference Paper
 
-- Quantum Fourier Transformation Circuits Compilation. <br> **\*Yuwei Jin**, \*Xiangyu Gao(co-first), Minghao Guo, Henry Chen, Fei Hua, Chi Zhang, Eddy Z. Zhang. <be> C: The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC 2024**) <br> ATLANTA, GA, USA. NOV, 2024.
+- Quantum Fourier Transformation Circuits Compilation. <br> **\*Yuwei Jin**, \*Xiangyu Gao(co-first), Minghao Guo, Henry Chen, Fei Hua, Chi Zhang, Eddy Z. Zhang. <be> C: The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC 2024**)<br> ATLANTA, GA, USA. NOV, 2024.
 
 - Tetris: A compilation Framework for VQE Applications. <br>**\*Yuwei Jin**, \*Zirui Li(co-first), Henry Chen, Fei Hua, Yanhao Chen, Eddy Z. Zhang. <br>The International Symposium on Computer Architecture (**ISCA 2024**) <br> Buenos Aires, Argentina. June 2024 (under camera-ready modification).
 
