@@ -8,7 +8,7 @@ layout: page
 
 Here is **Yuwei Jin (Jim)**.
 
-I am a senior Ph.D. candidate majoring in **CS** at Rutgers, The State University of New Jersey. Currently, I serve as a research intern  at Argonne National Lab, advised by [Prof. Zheng (Eddy) Zhang](https://people.cs.rutgers.edu/zz124/) and [Dr. Ji Liu](https://www.anl.gov/profile/ji-liu). 
+I am a senior Ph.D. candidate majoring in **CS** at Rutgers, The State University of New Jersey. Currently, I serve as a research intern  at Argonne National Lab, advised by [Prof. Eddy Z. Zhang](https://people.cs.rutgers.edu/zz124/) and [Dr. Ji Liu](https://www.anl.gov/profile/ji-liu). 
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *yuwei[dot]jin[at]rutgers[dot]edu*
 
