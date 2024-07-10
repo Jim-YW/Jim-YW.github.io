@@ -32,12 +32,12 @@ My research is centered around **quantum circuit compilation** and **error mitig
 ---
 
 ## News and Updates
-- **July 2024: ** 2024 ISCA Distinguished Artifact Award for "Tetris: A Compilation Framework for VQA Applications in Quantum Computing"
-- **June 2024: ** Our paper "Optimizing Quantum Fourier Transformation (QFT) Kernels for Modern NISQ and FT Architectures" is accepted by **SC24**
-- **May 2024：**Present paper "Exploiting the Regular Structure of Modern Quantum Architectures for Compiling and Optimizing Programs with Permutable Operators" at **ASPLOS 2024**
-- **Apr 2024：**Our paper "Tetris: A Compilation Framework for VQA Applications in Quantum Computing" is accepted by **ISCA 2024**
-- **OCT 2023：**Got the Fifth Place Award at 2023 Quantum Computing for Drug Discovery Challenge at ICCAD
-- **May 2023：**Presented paper "CaQR: A Compiler-Assisted Approach for Qubit Reuse through Dynamic Circuit." at **ASPLOS 2023**
-- **Feb 2023：**Presented paper "A Pulse Generation Framework with Augmented Program-aware Basis Gates and Criticality Analysis." at **HPCA 2023**
+- **July 2024:** 2024 ISCA Distinguished Artifact Award for "Tetris: A Compilation Framework for VQA Applications in Quantum Computing"
+- **June 2024:** Our paper "Optimizing Quantum Fourier Transformation (QFT) Kernels for Modern NISQ and FT Architectures" is accepted by **SC24**
+- **May 2024**Present paper "Exploiting the Regular Structure of Modern Quantum Architectures for Compiling and Optimizing Programs with Permutable Operators" at **ASPLOS 2024**
+- **Apr 2024**Our paper "Tetris: A Compilation Framework for VQA Applications in Quantum Computing" is accepted by **ISCA 2024**
+- **OCT 2023**Got the Fifth Place Award at 2023 Quantum Computing for Drug Discovery Challenge at ICCAD
+- **May 2023**Presented paper "CaQR: A Compiler-Assisted Approach for Qubit Reuse through Dynamic Circuit." at **ASPLOS 2023**
+- **Feb 2023**Presented paper "A Pulse Generation Framework with Augmented Program-aware Basis Gates and Criticality Analysis." at **HPCA 2023**
 
 
