@@ -32,7 +32,7 @@ My research is centered around **quantum circuit compilation** and **error mitig
 ---
 
 ## News and Updates
-- **July 2024:** 2024 ISCA Distinguished Artifact Award for "Tetris: A Compilation Framework for VQA Applications in Quantum Computing"
+- **July 2024:** 2024 ISCA Distinguished Artifact Award for "[Tetris: A Compilation Framework for VQA Applications in Quantum Computing](https://www.cs.rutgers.edu/news-events/news/news-item/yuwei-jin-and-zirui-li-have-been-awarded-the-2024-isca-distinguished-artifact-award)"
 - **June 2024:** Our paper "Optimizing Quantum Fourier Transformation (QFT) Kernels for Modern NISQ and FT Architectures" is accepted by **SC24**
 - **May 2024:** Present paper "Exploiting the Regular Structure of Modern Quantum Architectures for Compiling and Optimizing Programs with Permutable Operators" at **ASPLOS 2024**
 - **Apr 2024:** Our paper "Tetris: A Compilation Framework for VQA Applications in Quantum Computing" is accepted by **ISCA 2024**
